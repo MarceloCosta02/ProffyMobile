@@ -1,0 +1,1 @@
+Se travar na hora de colocar as imagens rodar >> npm i -g react-native-cli
